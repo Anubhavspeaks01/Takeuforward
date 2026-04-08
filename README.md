@@ -34,7 +34,7 @@ Follow these steps to run the project locally:
 Clone the repository:
 
 Bash
-git clone https://github.com/Anubhavspeaks01/calendar-challenge.git
+git clone (https://github.com/Anubhavspeaks01/Takeuforward)
 cd calendar-challenge
 Install dependencies:
 
