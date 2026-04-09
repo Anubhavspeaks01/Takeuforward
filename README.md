@@ -24,7 +24,7 @@ Animations: Framer Motion
 Date Logic: date-fns
 
 Demo & Links
-Live Demo: [Insert Your Render/Vercel Link Here]
+Live Demo: https://takeuforward-3.onrender.com
 
 Video Walkthrough: [Insert Loom/YouTube Link Here]
 
